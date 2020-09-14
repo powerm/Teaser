@@ -1,0 +1,43 @@
+# Windows build temp cmake file
+CMakeSettings.json
+
+# Docs tar file created by travis deploy
+.travis/*.tar.gz
+
+# CMake temp file from Visual Studio
+CMakeSettings.json
+
+# Temp directories
+build*/
+
+# cmake-build-debug
+cmake-build-debug*/
+
+
+# Local configs
+_vimrc_local.vim
+.vs/
+.vscode/
+.clangd/
+
+
+# Build artifacts
+**/package-lock.json
+*.pyc
+__pycache__
+._*
+.DS_Store
+.vscode
+.idea
+*.egg-info/
+*.ipynb_checkpoints/
+*.py[cod]
+*.bak
+node_modules/
+static/
+*.old*
+compile_commands.json
+
+# Example resources
+
+# doc
