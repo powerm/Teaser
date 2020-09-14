@@ -2,10 +2,6 @@
 	path = 3rdparty/googletest
 	url = https://github.com/google/googletest.git
 	branch = master
-[submodule "3rdparty/spectra"]
-	path = 3rdparty/spectra
-	url = https://github.com/jingnanshi/spectra.git
-    tag  = 5c4fb1de050847988faaaaa50f60e7d3d5f16143
 [submodule "3rdparty/pmc"]
 	path = 3rdparty/pmc
 	url = https://github.com/jingnanshi/pmc.git
