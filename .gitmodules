@@ -1,7 +1,3 @@
-[submodule "3rdparty/pybind11"]
-	path = 3rdparty/pybind11
-	url = https://github.com/pybind/pybind11.git
-	tag = v2.4.3
 [submodule "3rdparty/googletest"]
 	path = 3rdparty/googletest
 	url = https://github.com/google/googletest.git
@@ -11,8 +7,12 @@
     url  = https://github.com/jingnanshi/spectra
     tag  = 5c4fb1de050847988faaaaa50f60e7d3d5f16143
 [submodule "3rdparty/pmc"]
-    path = 33rdparty/pmc
-    url  = https://github.com/jingnanshi/pms
+	path = 3rdparty/pmc
+	url = https://github.com/jingnanshi/pmc.git
 [submodule "3rdparty/Eigen"]
 	path = 3rdparty/Eigen
 	url = https://gitlab.com/libeigen/eigen.git
+[submodule "3rdparty/pybind11"]
+	path = 3rdparty/pybind11
+	url = https://github.com/pybind/pybind11.git
+	branch = v2.4.3
