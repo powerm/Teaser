@@ -12,3 +12,6 @@
 	path = 3rdparty/pybind11
 	url = https://github.com/pybind/pybind11.git
 	branch = v2.4.3
+[submodule "3rdparty/spectra"]
+	path = 3rdparty/spectra
+	url = https://github.com/jingnanshi/spectra.git
